@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73158557310",
+    "project_id": "relgal",
+    "storage_bucket": "relgal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73158557310:android:858b67b971c0156a5c622f",
+        "android_client_info": {
+          "package_name": "com.example.relgal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOW0i7zevr-DQn6MzBI6Qqa9HX8bC1QNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
